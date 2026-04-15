@@ -44,4 +44,4 @@ python get_train_image.py
 1. yolo11n.pt等三个模型文件，放到model中，即使指定路径也无法使用
 
 2. datasets中的yaml文件里，必须使用绝对路径，相对路径无法使用
-# yolo_train # yolo_train
+
