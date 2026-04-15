@@ -1,0 +1,12 @@
+**/*.pyc
+**/__pycache__
+**/debug
+**/build
+.vscode/
+*.zip
+runs
+**/**/.png
+**/**/.json
+
+images
+datasets
